@@ -1,6 +1,6 @@
-ТАЙМЕР ОБРАТНОГО ОТСЧЕТА (React)
+Таймер обратного отсчета до указанной даты (React)
 
-
+Countdown timer to specified date
 
 
 
