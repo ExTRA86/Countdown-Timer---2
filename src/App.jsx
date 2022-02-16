@@ -73,8 +73,8 @@ function App() {
         {show ? <Timer newDate={newDate} switcher={switcher} /> : ''}
       </div>
       {end ? (
-        <div style={{ marginTop: 50, fontSize: 80 }}>
-          Установленная дата наступила!
+        <div className='clock'>
+          <h1>Установленная дата наступила!</h1>
         </div>
       ) : (
         ''
